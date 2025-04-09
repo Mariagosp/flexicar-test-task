@@ -1,0 +1,28 @@
+{
+  "name": "flexicar-test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass src/styles/main.scss src/styles/index.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mariagosp/flexicar-test-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mariagosp/flexicar-test-task/issues"
+  },
+  "homepage": "https://github.com/Mariagosp/flexicar-test-task#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.24.0",
+    "eslint": "^9.24.0",
+    "globals": "^16.0.0",
+    "prettier": "^3.5.3",
+    "sass": "^1.86.3"
+  }
+}
